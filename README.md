@@ -1,5 +1,4 @@
 # Portfolio-Simple-Website
-# Personal Portfolio Website
 
 This is a simple personal portfolio website created using **HTML** and **CSS**. It is designed to present basic information about me and provide a way for visitors to contact me.
 
